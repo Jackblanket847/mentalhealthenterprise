@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Faunsdale of Demopolis</name>
+    <Point>
+      <coordinates>-87.83073,32.51075,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>

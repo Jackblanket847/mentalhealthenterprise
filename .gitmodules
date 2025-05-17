@@ -1,0 +1,3 @@
+[submodule "mentalhealthenterprise"]
+	path = mentalhealthenterprise
+	url = git@github.com:Jackblanket847/mentalhealthenterprise.git

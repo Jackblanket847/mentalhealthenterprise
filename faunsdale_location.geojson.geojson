@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faunsdale of Demopolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83073,
+          32.51075
+        ]
+      }
+    }
+  ]
+}
