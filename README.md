@@ -6,7 +6,7 @@
 
 
 ##
-{
+'''
 MentalHealthEnterprise/
 │
 ├── .github/
@@ -192,4 +192,4 @@ MentalHealthEnterprise/
 ├── docker-compose.dev.yml
 ├── docker-compose.production.yml
 └── Makefile
-}
+'''
