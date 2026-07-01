@@ -5,7 +5,9 @@
 ## .github/
 
 
-## MentalHealthEnterprise/
+##
+[
+MentalHealthEnterprise/
 │
 ├── .github/
 │   ├── workflows/
@@ -190,3 +192,4 @@
 ├── docker-compose.dev.yml
 ├── docker-compose.production.yml
 └── Makefile
+]
